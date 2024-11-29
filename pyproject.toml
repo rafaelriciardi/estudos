@@ -1,0 +1,16 @@
+[project]
+name = "artigo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipywidgets>=8.1.5",
+    "jupyter>=1.1.1",
+    "jupyter-contrib-nbextensions>=0.7.0",
+    "jupyterlab>=4.3.1",
+    "nbconvert>=7.16.4",
+    "pandas>=2.2.3",
+    "plotly>=5.24.1",
+    "rise>=5.7.1",
+]
